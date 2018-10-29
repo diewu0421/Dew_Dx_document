@@ -1,0 +1,41 @@
+SVN:
+https://svn.comepro.com/svn/VC/DXAPP/DEV/ForPhoenix666
+https://svn.comepro.com:6443/svn/VC/DXAPP/DEV/ForPhoenix666 --外网访问
+
+账号：
+     
+
+接口文档：
+http://www.xiaoyaoji.cn/share/1ZSpdwdOZ
+
+
+1、https://dms.dx.com/svc/v3.0/api/Recommends/GetRecommend?dataDisplayPage=1
+//获取首页广告
+
+2、https://dms.dx.com/svc/v3.0/api/apphomes/GetFloatBanners
+
+
+3、https://dms.dx.com/svc/v3.0/api/Products/SwitchProductCurrency
+
+
+4、https://dms.dx.com/svc/v3.0/api/DxmTopSellers/GetMoreAboutThisCategory
+
+
+5、https://dms.dx.com/svc/v3.0/api/users/GetCustomerFilter
+
+
+6、https://dms.dx.com/svc/v3.0/api/apphomes/gethomedata
+
+
+7、https://dms.dx.com/svc/v3.0/api/users/SaveCustomerIsFilter
+//判断是否有未读消息
+
+8、https://dms.dx.com/svc/v3.0/api/Notices/GetIsNotRead
+
+API地址：
+http://api.dxinterns.com/app/Common/getHomeData
+
+
+API需要新增：
+  1.Notices相关服务;
+  2.一键过滤相关服务;
